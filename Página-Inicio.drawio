@@ -1,11 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T19:58:33.172Z" agent="5.0 (X11)" etag="VV2MJjw4rVY4_mZdXIFH" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T19:28:07.448Z" agent="5.0 (X11)" etag="4JhzKureZPAqozsUNCxb" version="20.5.1" type="github">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="4751" dy="1283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1600" pageHeight="900" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
-        <mxCell id="YWLWRJzPZtAssaZeO9F8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wis09WT77104H0kCQ0BY-11" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillStyle=solid;strokeColor=default;fontFamily=Times New Roman;fontSize=30;fillColor=default;gradientColor=none;gradientDirection=north;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="310" width="1920" height="810" as="geometry" />
+        </mxCell>
+        <mxCell id="YWLWRJzPZtAssaZeO9F8-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9E9E9E;strokeColor=#666666;gradientColor=none;gradientDirection=north;glass=0;shadow=0;sketch=0;fillStyle=dots;" parent="1" vertex="1">
           <mxGeometry x="-600" y="40" width="1920" height="1080" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-10" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Times New Roman;fontSize=30;gradientDirection=north;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="40" width="1920" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-1" value="&lt;h1 style=&quot;font-size: 58px;&quot; align=&quot;justify&quot;&gt;&lt;u&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Logo&lt;/font&gt;&lt;br&gt;&lt;/u&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00246B;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="440" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-2" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;Afiliados&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=58;fillColor=#00205E;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="60" width="960" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-3" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=#a20025;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontFamily=Times New Roman;fontSize=40;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="60" width="260" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-4" value="Acerca de" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;" vertex="1" parent="Wis09WT77104H0kCQ0BY-3">
+          <mxGeometry y="40" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-5" value="La empresa" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;gradientColor=none;shadow=0;" vertex="1" parent="Wis09WT77104H0kCQ0BY-3">
+          <mxGeometry y="100" width="260" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-6" value="Contacto" style="text;strokeColor=#B20000;fillColor=#e51400;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;gradientColor=none;" vertex="1" parent="Wis09WT77104H0kCQ0BY-3">
+          <mxGeometry y="164" width="260" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-12" value="Alquier" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#00246B;strokeColor=#6F0000;rounded=0;shadow=0;glass=0;sketch=0;fillStyle=solid;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="675" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-13" value="Compra" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#00246B;strokeColor=#6F0000;rounded=0;shadow=0;glass=0;sketch=0;fillStyle=solid;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="370" y="675" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-14" value="Venta" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#B20000;strokeColor=#6F0000;rounded=0;shadow=0;glass=0;sketch=0;fillStyle=solid;fontFamily=Times New Roman;fontSize=30;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="140" y="760" width="440" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-18" value="Foto" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillStyle=auto;strokeColor=#B20000;fontFamily=Times New Roman;fontSize=30;fillColor=default;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="400" width="1920" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Wis09WT77104H0kCQ0BY-19" value="&lt;div&gt;Footer&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fillStyle=auto;strokeColor=#B20000;fontFamily=Times New Roman;fontSize=30;fillColor=default;gradientColor=none;gradientDirection=south;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1120" width="1920" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
