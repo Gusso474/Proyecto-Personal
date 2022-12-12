@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Cinzel:wght@500&display=swap'); 
+.dropdown-toggle {
+    width: 150px;
+    background-color: #A20025;
+    font-family: 'Cinzel', serif;
+}
+
+.dropdown-menu {
+    background-color:#E51400;
+}
+.dropdown-item{
+    color:white;
+}
+
+.afiliados{
+ width: 120px;
+}
+
+div{
+    background-color: rgba(220, 220, 220, 0);
+}
+
+body{
+    background-image: url(/imagenes/fondo.jpg);
+    background-size: 200px;
+    font-family: 'Abel', sans-serif;
+}
+
+h3{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: #A20025;
+}
+
+h6{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: #A20025;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: #A20025;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    color: #A20025;
+}
+
+.carousel-inner{
+    height: 450px;
+    justify-content: center;
+}
+header{
+    background-color: white;
+}
+
+#alquilar{
+    background-color: #00246B;
+}
+
+#comprar{
+    background-color: #00246B;
+}
+
+#vender{
+    background-color: #A20025;
+}
+
+.btn{
+    color: white;
+}
+
+footer{
+    background-color: #A20025;
+    text-align: left;
+    color: whitesmoke;
+}
